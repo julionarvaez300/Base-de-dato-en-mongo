@@ -1,0 +1,292 @@
+// partidos//
+
+[{
+  "ID_partidos": "2001",
+  "fecha": "02/05/2024",
+  "ubicacion": "C. la teresa",
+  "ID_equipo 1":"01",
+  "ID_equipo 2":"02",
+  "goles_equipo 1":"3",
+  "goles_equipo 2":"2",
+  "ID_arbitro":"1515",
+  "ganador":" Titanes de Concreto"
+}
+]
+
+[{
+  "ID_partidos": "2002",
+  "fecha": "03/05/2024",
+  "ubicacion": "Estadio san jorge",
+  "ID_equipo 1":"03",
+  "ID_equipo 2":"04",
+  "goles_equipo 1":"0",
+  "goles_equipo 2":"2",
+  "ID_arbitro":"1516",
+  "ganador":"Lobos Urbanos"
+}
+]
+
+[{
+  "ID_partidos": "2003",
+  "fecha": "04/05/2024",
+  "ubicacion": "Polideportivo",
+  "ID_equipo 1":"05",
+  "ID_equipo 2":"06",
+  "goles_equipo 1":"2",
+  "goles_equipo 2":"1",
+  "ID_arbitro":"1517",
+  "ganador":"Centinelas de la Ciudad "
+}
+]
+
+[{
+  "ID_partidos": "2004",
+  "fecha": "05/05/2024",
+  "ubicacion": "C. la teresa",
+  "ID_equipo 1":"01",
+  "ID_equipo 2":"04",
+  "goles_equipo 1":"2",
+  "goles_equipo 2":"3",
+  "ID_arbitro":"1518",
+  "ganador":"Lobos Urbanos "
+}
+]
+
+[{
+  "ID_partidos": "2005",
+  "fecha": "06/05/2024",
+  "ubicacion": "Polideportivo",
+  "ID_equipo 1":"05",
+  "ID_equipo 2":"06",
+  "goles_equipo 1":"2",
+  "goles_equipo 2":"1",
+  "ID_arbitro":"1519",
+  "ganador":"Centinelas de la Ciudad "
+}
+]
+
+[{
+  "ID_partidos": "2006",
+  "fecha": "06/05/2024",
+  "ubicacion": "Polideportivo",
+  "ID_equipo 1":"04",
+  "ID_equipo 2":"05",
+  "goles_equipo 1":"2",
+  "goles_equipo 2":"1",
+  "ID_arbitro":"1520",
+  "ganador":"Lobos Urbanos"
+}
+]
+
+// jugadores //
+
+[ {
+  "ID_jugador": "101",
+  "nombre": "Juan Oviedo Payares",
+  "posicion": "delantero",
+  "ID_equipo":"01",
+  "genero":"masculino"
+}
+]
+[ {
+  "ID_jugador": "102",
+  "nombre": "Cesar Vergara",
+  "posicion": "delantero",
+  "ID_equipo":"02",
+  "genero":"masculino"
+}
+]
+[ {
+  "ID_jugador": "103",
+  "nombre": "Ever Aguirre",
+  "posicion": "mediocampista",
+  "ID_equipo":"03",
+  "genero":"masculino"
+}
+]
+[ {
+  "ID_jugador": "104",
+  "nombre": "Luis Meguia",
+  "posicion": "delantero",
+  "ID_equipo":"04",
+  "genero":"masculino"
+}
+]
+[ {
+  "ID_jugador": "105",
+  "nombre": "Ivan Oviedo",
+  "posicion": "delantero",
+  "ID_equipo":"05",
+  "genero":"masculino"
+}
+]
+[ {
+  "ID_jugador": "106",
+  "nombre": "Daniel Jimenes",
+  "posicion": "mediocampista",
+  "ID_equipo":"06",
+  "genero":"masculino"
+}
+]
+// equipo//
+
+[{
+  "ID_equipo": "01",
+  "nombre_equipo": "Titanes de Concreto ",
+  "cuidad": "montelibano",
+  "entrenador":"Jorge Vergara"
+}
+]
+[{
+  "ID_equipo": "02",
+  "nombre_equipo": "Dragones de Asfalto",
+  "cuidad": "Pt libertador",
+  "entrenador":"Camilo Paternina"
+}
+]
+[{
+  "ID_equipo": "03",
+  "nombre_equipo": "Centauros Metropolitanos",
+  "cuidad": "la apartada",
+  "entrenador":"Yeison Pitalua"
+}
+]
+[{
+  "ID_equipo": "04",
+  "nombre_equipo": "Lobos Urbanos",
+  "cuidad": "Ure",
+  "entrenador":"Carlos Vergara"
+}
+]
+[{
+  "ID_equipo": "05",
+  "nombre_equipo": "Centinelas de la Ciudad",
+  "cuidad": "planeta rica",
+  "entrenador":"Andres Martinez"
+}
+]
+[{
+  "ID_equipo": "01",
+  "nombre_equipo": "Fenix del Barrio",
+  "cuidad": "caucaria",
+  "entrenador":"Adrian Urango"
+}
+]
+
+// aribitros //
+
+[{
+  "ID_arbitro": "1515",
+  "nombre":"Ricardo Aguas",
+  "cargo":"arbitro asistente"
+}
+]
+[{
+  "ID_arbitro": "1516",
+  "nombre":"Oscar Tera",
+  "cargo":"arbitro asistente"
+}
+]
+[{
+  "ID_arbitro": "1517",
+  "nombre":"Migel Herreras",
+  "cargo":"arbitro asistente"
+}
+]
+[{
+  "ID_arbitro": "1518",
+  "nombre":"Juan Balmaceda",
+  "cargo":"arbitro asistente"
+}
+]
+[{
+  "ID_arbitro": "1519",
+  "nombre":"Pablo Bautista",
+  "cargo":"arbitro asistente"
+}
+]
+[{
+  "ID_arbitro": "1520",
+  "nombre":"Samuel Vergara",
+  "cargo":"arbitro asistente"
+}
+]
+
+// goles//
+
+[{
+  "ID_partidos": "2001",
+  "ID_equipo ":"01",
+  "ID_jugador":"101"
+}
+]
+[{
+  "ID_partidos": "2002",
+  "ID_equipo ":"02",
+  "ID_jugador":"102"
+}
+]
+[{
+  "ID_partidos": "2003",
+  "ID_equipo ":"03",
+  "ID_jugador":"103"
+}
+]
+[{
+  "ID_partidos": "2004",
+  "ID_equipo ":"04",
+  "ID_jugador":"104"
+}
+]
+[{
+  "ID_partidos": "2005",
+  "ID_equipo ":"05",
+  "ID_jugador":"105"
+}
+]
+[{
+  "ID_partidos": "2006",
+  "ID_equipo ":"06",
+  "ID_jugador":"106"
+}
+]
+
+// posiciones//
+
+[{
+  "posicion": "#1",
+  "ID_equipo ":"04",
+  "goles":"7"
+}
+]
+[{
+  "posicion": "#2",
+  "ID_equipo ":"05",
+  "goles":"5"
+}
+]
+[{
+  "posicion": "#3",
+  "ID_equipo ":"01",
+  "goles":"5"
+}
+]
+[{
+  "posicion": "#4",
+  "ID_equipo ":"02",
+  "goles":"2"
+}
+]
+[{
+  "posicion": "#5",
+  "ID_equipo ":"06",
+  "goles":"2"
+}
+]
+[{
+  "posicion": "#6",
+  "ID_equipo ":"03",
+  "goles":"0"
+}
+]
+
