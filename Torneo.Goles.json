@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6654009e45d7bab0beba77dc"
+  },
+  "ID_partidos": "2001",
+  "ID_equipo ": "01",
+  "ID_jugador": "101"
+},
+{
+  "_id": {
+    "$oid": "6654009e45d7bab0beba77dd"
+  },
+  "ID_partidos": "2002",
+  "ID_equipo ": "02",
+  "ID_jugador": "102"
+},
+{
+  "_id": {
+    "$oid": "6654009e45d7bab0beba77de"
+  },
+  "ID_partidos": "2003",
+  "ID_equipo ": "03",
+  "ID_jugador": "103"
+},
+{
+  "_id": {
+    "$oid": "6654009e45d7bab0beba77df"
+  },
+  "ID_partidos": "2004",
+  "ID_equipo ": "04",
+  "ID_jugador": "104"
+},
+{
+  "_id": {
+    "$oid": "6654009e45d7bab0beba77e0"
+  },
+  "ID_partidos": "2005",
+  "ID_equipo ": "05",
+  "ID_jugador": "105"
+},
+{
+  "_id": {
+    "$oid": "6654009e45d7bab0beba77e1"
+  },
+  "ID_partidos": "2006",
+  "ID_equipo ": "06",
+  "ID_jugador": "106"
+}]

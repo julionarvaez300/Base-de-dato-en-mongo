@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6654005645d7bab0beba77c4"
+  },
+  "ID_jugador": "101",
+  "nombre": "Juan Oviedo Payares",
+  "posicion": "delantero",
+  "ID_equipo": "01",
+  "genero": "masculino"
+},
+{
+  "_id": {
+    "$oid": "6654005645d7bab0beba77c5"
+  },
+  "ID_jugador": "102",
+  "nombre": "Cesar Vergara",
+  "posicion": "delantero",
+  "ID_equipo": "02",
+  "genero": "masculino"
+},
+{
+  "_id": {
+    "$oid": "6654005645d7bab0beba77c6"
+  },
+  "ID_jugador": "103",
+  "nombre": "Ever Aguirre",
+  "posicion": "mediocampista",
+  "ID_equipo": "03",
+  "genero": "masculino"
+},
+{
+  "_id": {
+    "$oid": "6654005645d7bab0beba77c7"
+  },
+  "ID_jugador": "104",
+  "nombre": "Luis Meguia",
+  "posicion": "delantero",
+  "ID_equipo": "04",
+  "genero": "masculino"
+},
+{
+  "_id": {
+    "$oid": "6654005645d7bab0beba77c8"
+  },
+  "ID_jugador": "105",
+  "nombre": "Ivan Oviedo",
+  "posicion": "delantero",
+  "ID_equipo": "05",
+  "genero": "masculino"
+},
+{
+  "_id": {
+    "$oid": "6654005645d7bab0beba77c9"
+  },
+  "ID_jugador": "106",
+  "nombre": "Daniel Jimenes",
+  "posicion": "mediocampista",
+  "ID_equipo": "06",
+  "genero": "masculino"
+}]

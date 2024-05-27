@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "665400b345d7bab0beba77e4"
+  },
+  "posicion": "#1",
+  "ID_equipo ": "04",
+  "goles": "7"
+},
+{
+  "_id": {
+    "$oid": "665400b345d7bab0beba77e5"
+  },
+  "posicion": "#2",
+  "ID_equipo ": "05",
+  "goles": "5"
+},
+{
+  "_id": {
+    "$oid": "665400b345d7bab0beba77e6"
+  },
+  "posicion": "#3",
+  "ID_equipo ": "01",
+  "goles": "5"
+},
+{
+  "_id": {
+    "$oid": "665400b345d7bab0beba77e7"
+  },
+  "posicion": "#4",
+  "ID_equipo ": "02",
+  "goles": "2"
+},
+{
+  "_id": {
+    "$oid": "665400b345d7bab0beba77e8"
+  },
+  "posicion": "#5",
+  "ID_equipo ": "06",
+  "goles": "2"
+},
+{
+  "_id": {
+    "$oid": "665400b345d7bab0beba77e9"
+  },
+  "posicion": "#6",
+  "ID_equipo ": "03",
+  "goles": "0"
+}]

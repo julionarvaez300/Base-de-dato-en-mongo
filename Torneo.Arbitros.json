@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6654008945d7bab0beba77d4"
+  },
+  "ID_arbitro": "1515",
+  "nombre": "Ricardo Aguas",
+  "cargo": "arbitro asistente"
+},
+{
+  "_id": {
+    "$oid": "6654008945d7bab0beba77d5"
+  },
+  "ID_arbitro": "1516",
+  "nombre": "Oscar Tera",
+  "cargo": "arbitro asistente"
+},
+{
+  "_id": {
+    "$oid": "6654008945d7bab0beba77d6"
+  },
+  "ID_arbitro": "1517",
+  "nombre": "Migel Herreras",
+  "cargo": "arbitro asistente"
+},
+{
+  "_id": {
+    "$oid": "6654008945d7bab0beba77d7"
+  },
+  "ID_arbitro": "1518",
+  "nombre": "Juan Balmaceda",
+  "cargo": "arbitro asistente"
+},
+{
+  "_id": {
+    "$oid": "6654008945d7bab0beba77d8"
+  },
+  "ID_arbitro": "1519",
+  "nombre": "Pablo Bautista",
+  "cargo": "arbitro asistente"
+},
+{
+  "_id": {
+    "$oid": "6654008945d7bab0beba77d9"
+  },
+  "ID_arbitro": "1520",
+  "nombre": "Samuel Vergara",
+  "cargo": "arbitro asistente"
+}]

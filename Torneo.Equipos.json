@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6654007145d7bab0beba77cc"
+  },
+  "ID_equipo": "01",
+  "nombre_equipo": "Titanes de Concreto ",
+  "cuidad": "montelibano",
+  "entrenador": "Jorge Vergara"
+},
+{
+  "_id": {
+    "$oid": "6654007145d7bab0beba77cd"
+  },
+  "ID_equipo": "02",
+  "nombre_equipo": "Dragones de Asfalto",
+  "cuidad": "Pt libertador",
+  "entrenador": "Camilo Paternina"
+},
+{
+  "_id": {
+    "$oid": "6654007145d7bab0beba77ce"
+  },
+  "ID_equipo": "03",
+  "nombre_equipo": "Centauros Metropolitanos",
+  "cuidad": "la apartada",
+  "entrenador": "Yeison Pitalua"
+},
+{
+  "_id": {
+    "$oid": "6654007145d7bab0beba77cf"
+  },
+  "ID_equipo": "04",
+  "nombre_equipo": "Lobos Urbanos",
+  "cuidad": "Ure",
+  "entrenador": "Carlos Vergara"
+},
+{
+  "_id": {
+    "$oid": "6654007145d7bab0beba77d0"
+  },
+  "ID_equipo": "05",
+  "nombre_equipo": "Centinelas de la Ciudad",
+  "cuidad": "planeta rica",
+  "entrenador": "Andres Martinez"
+},
+{
+  "_id": {
+    "$oid": "6654007145d7bab0beba77d1"
+  },
+  "ID_equipo": "01",
+  "nombre_equipo": "Fenix del Barrio",
+  "cuidad": "caucaria",
+  "entrenador": "Adrian Urango"
+}]

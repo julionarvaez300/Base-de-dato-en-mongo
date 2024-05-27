@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6654002045d7bab0beba77bc"
+  },
+  "ID_partidos": "2001",
+  "fecha": "02/05/2024",
+  "ubicacion": "C. la teresa",
+  "ID_equipo 1": "01",
+  "ID_equipo 2": "02",
+  "goles_equipo 1": "3",
+  "goles_equipo 2": "2",
+  "ID_arbitro": "1515",
+  "ganador": " Titanes de Concreto"
+},
+{
+  "_id": {
+    "$oid": "6654002045d7bab0beba77bd"
+  },
+  "ID_partidos": "2002",
+  "fecha": "03/05/2024",
+  "ubicacion": "Estadio san jorge",
+  "ID_equipo 1": "03",
+  "ID_equipo 2": "04",
+  "goles_equipo 1": "0",
+  "goles_equipo 2": "2",
+  "ID_arbitro": "1516",
+  "ganador": "Lobos Urbanos"
+},
+{
+  "_id": {
+    "$oid": "6654002045d7bab0beba77be"
+  },
+  "ID_partidos": "2003",
+  "fecha": "04/05/2024",
+  "ubicacion": "Polideportivo",
+  "ID_equipo 1": "05",
+  "ID_equipo 2": "06",
+  "goles_equipo 1": "2",
+  "goles_equipo 2": "1",
+  "ID_arbitro": "1517",
+  "ganador": "Centinelas de la Ciudad "
+},
+{
+  "_id": {
+    "$oid": "6654002045d7bab0beba77bf"
+  },
+  "ID_partidos": "2004",
+  "fecha": "05/05/2024",
+  "ubicacion": "C. la teresa",
+  "ID_equipo 1": "01",
+  "ID_equipo 2": "04",
+  "goles_equipo 1": "2",
+  "goles_equipo 2": "3",
+  "ID_arbitro": "1518",
+  "ganador": "Lobos Urbanos "
+},
+{
+  "_id": {
+    "$oid": "6654002045d7bab0beba77c0"
+  },
+  "ID_partidos": "2005",
+  "fecha": "06/05/2024",
+  "ubicacion": "Polideportivo",
+  "ID_equipo 1": "05",
+  "ID_equipo 2": "06",
+  "goles_equipo 1": "2",
+  "goles_equipo 2": "1",
+  "ID_arbitro": "1519",
+  "ganador": "Centinelas de la Ciudad "
+},
+{
+  "_id": {
+    "$oid": "6654002045d7bab0beba77c1"
+  },
+  "ID_partidos": "2006",
+  "fecha": "06/05/2024",
+  "ubicacion": "Polideportivo",
+  "ID_equipo 1": "04",
+  "ID_equipo 2": "05",
+  "goles_equipo 1": "2",
+  "goles_equipo 2": "1",
+  "ID_arbitro": "1520",
+  "ganador": "Lobos Urbanos"
+}]
